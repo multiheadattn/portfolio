@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "developer",
+    "machine-learning",
+    "web-development"
+  ],
+  "author": "mha <mutliheadattention@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/multiheadattn/portfolio.git"
+  },
+  "homepage": "https://github.com/multiheadattn/portfolio#readme"
+}
